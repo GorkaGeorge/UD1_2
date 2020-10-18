@@ -1,0 +1,12 @@
+C:\Users\Gorka\source\repos\Calcualr esto\bin\Debug\netcoreapp3.1\Calcualr esto.exe
+C:\Users\Gorka\source\repos\Calcualr esto\bin\Debug\netcoreapp3.1\Calcualr esto.deps.json
+C:\Users\Gorka\source\repos\Calcualr esto\bin\Debug\netcoreapp3.1\Calcualr esto.runtimeconfig.json
+C:\Users\Gorka\source\repos\Calcualr esto\bin\Debug\netcoreapp3.1\Calcualr esto.runtimeconfig.dev.json
+C:\Users\Gorka\source\repos\Calcualr esto\bin\Debug\netcoreapp3.1\Calcualr esto.dll
+C:\Users\Gorka\source\repos\Calcualr esto\bin\Debug\netcoreapp3.1\Calcualr esto.pdb
+C:\Users\Gorka\source\repos\Calcualr esto\obj\Debug\netcoreapp3.1\Calcualr esto.AssemblyInfoInputs.cache
+C:\Users\Gorka\source\repos\Calcualr esto\obj\Debug\netcoreapp3.1\Calcualr esto.AssemblyInfo.vb
+C:\Users\Gorka\source\repos\Calcualr esto\obj\Debug\netcoreapp3.1\Calcualr esto.vbproj.CoreCompileInputs.cache
+C:\Users\Gorka\source\repos\Calcualr esto\obj\Debug\netcoreapp3.1\Calcualr esto.dll
+C:\Users\Gorka\source\repos\Calcualr esto\obj\Debug\netcoreapp3.1\Calcualr esto.pdb
+C:\Users\Gorka\source\repos\Calcualr esto\obj\Debug\netcoreapp3.1\Calcualr esto.genruntimeconfig.cache
