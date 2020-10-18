@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Como te llamas/1.0.0": {
+        "runtime": {
+          "Como te llamas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Como te llamas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

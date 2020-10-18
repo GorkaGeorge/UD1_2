@@ -1,0 +1,12 @@
+C:\Users\Gorka\source\repos\Como te llamas\bin\Debug\netcoreapp3.1\Como te llamas.exe
+C:\Users\Gorka\source\repos\Como te llamas\bin\Debug\netcoreapp3.1\Como te llamas.deps.json
+C:\Users\Gorka\source\repos\Como te llamas\bin\Debug\netcoreapp3.1\Como te llamas.runtimeconfig.json
+C:\Users\Gorka\source\repos\Como te llamas\bin\Debug\netcoreapp3.1\Como te llamas.runtimeconfig.dev.json
+C:\Users\Gorka\source\repos\Como te llamas\bin\Debug\netcoreapp3.1\Como te llamas.dll
+C:\Users\Gorka\source\repos\Como te llamas\bin\Debug\netcoreapp3.1\Como te llamas.pdb
+C:\Users\Gorka\source\repos\Como te llamas\obj\Debug\netcoreapp3.1\Como te llamas.AssemblyInfoInputs.cache
+C:\Users\Gorka\source\repos\Como te llamas\obj\Debug\netcoreapp3.1\Como te llamas.AssemblyInfo.vb
+C:\Users\Gorka\source\repos\Como te llamas\obj\Debug\netcoreapp3.1\Como te llamas.vbproj.CoreCompileInputs.cache
+C:\Users\Gorka\source\repos\Como te llamas\obj\Debug\netcoreapp3.1\Como te llamas.dll
+C:\Users\Gorka\source\repos\Como te llamas\obj\Debug\netcoreapp3.1\Como te llamas.pdb
+C:\Users\Gorka\source\repos\Como te llamas\obj\Debug\netcoreapp3.1\Como te llamas.genruntimeconfig.cache
